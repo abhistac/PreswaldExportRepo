@@ -14,13 +14,13 @@ Use the sidebar sliders to filter by minimum **price** and **sales volume**, the
 ---
 
 ## Project Structure
-assets/              # JS/CSS assets for the static site
+assets/:              # JS/CSS assets for the static site
 
-index.html           # Entry point for the dashboard
+index.html:           # Entry point for the dashboard
 
-project_fs.json      # Preswald export metadata
+project_fs.json:      # Preswald export metadata
 
-README.md            # This file
+README.md:            # This file
 
 
 ---

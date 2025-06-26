@@ -14,10 +14,14 @@ Use the sidebar sliders to filter by minimum **price** and **sales volume**, the
 ---
 
 ## Project Structure
-├── assets/              # JS/CSS assets for the static site
-├── index.html           # Entry point for the dashboard
-├── project_fs.json      # Preswald export metadata
-└── README.md            # This file
+assets/              # JS/CSS assets for the static site
+
+index.html           # Entry point for the dashboard
+
+project_fs.json      # Preswald export metadata
+
+README.md            # This file
+
 
 ---
 
@@ -28,10 +32,14 @@ Use the sidebar sliders to filter by minimum **price** and **sales volume**, the
    pip install preswald
 
 2. Clone this repo and move into it:
+   ```bash
    git clone git@github.com:abhistac/PreswaldExportRepo.git
    cd PreswaldExportRepo
 
 3. Run the dashboard
+   ```bash
    preswald run
 
-4. Open your browser at localhost http://localhost:8501.
+4. Open your browser at localhost
+   ```bash
+   http://localhost:8501.
